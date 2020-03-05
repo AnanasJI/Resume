@@ -162,9 +162,18 @@
       {Python}{}
       \resumeItemListStart
         \resumeItem{}
-          {Co-ordinated with team of five to create insurance model for predicting compensation.}
+          {Co-ordinated with team of five to create insurance model for predicting compensation}
         \resumeItem{}
           {Gained insight into the application of machine learning in statistical models for real world problems}
+      \resumeItemListEnd
+      \resumeSubheading
+      {Boeing Hackathon}{Won "Environmental" category}
+      {Python, JavaScript}{}
+      \resumeItemListStart
+        \resumeItem{}
+          {Collaborated with team of five in creating "tree-planting" app using K-means clustering}
+        \resumeItem{}
+          {Worked on back-end design and group presentation}
       \resumeItemListEnd
   \resumeSubHeadingListEnd
 
